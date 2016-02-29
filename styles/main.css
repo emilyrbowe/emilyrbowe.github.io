@@ -16,7 +16,7 @@ body {
 
 /*NAVIGATION*/
 
-site-nav {	
+site-nav {
 }
 
 .site-nav::before {
@@ -28,7 +28,7 @@ site-nav {
     clear: both;
 }
 
-nav { 
+nav {
 /*	margin-bottom: 4em; */
 	display: block;
 }
@@ -37,7 +37,7 @@ nav > ul {
 	list-style: none;
 	padding: ;
 }
-	
+
 @media screen and (min-width: 55em) {
 	nav .nav-left {
 		float: left;
@@ -47,25 +47,25 @@ nav > ul {
 	}
 }
 
-nav > ul > li { 
-	margin-right: 10px; 
-	display: inline-block; 
-	color: #999; 
-	font-size: 0.85em; 
-	text-transform: uppercase; 
-	letter-spacing: .2em; 
+nav > ul > li {
+	margin-right: 10px;
+	display: inline-block;
+	color: #999;
+	font-size: 0.85em;
+	text-transform: uppercase;
+	letter-spacing: .2em;
 }
 
 nav > ul > li > a {
-	color: #4682B4;	
+	color: #4682B4;
 	text-decoration: none;
 }
 
-nav > ul > li > a.current { 
-	color: green; 
+nav > ul > li > a.current {
+	color: green;
 }
 
-nav > ul > li a:hover { 
+nav > ul > li a:hover {
 	color: #ffffff;
 	background: #4682B4;
 }
@@ -88,10 +88,10 @@ article > p > a {
 	text-decoration: none;
 }
 
-article  > p > a:hover { 
+article  > p > a:hover {
 	color: #ffffff;
 	background: #4682B4;
-	text-decoration: none; 
-	border-bottom: 2px; 
-	padding-top: 4px; 
+	text-decoration: none;
+	border-bottom: 2px;
+	padding-top: 4px;
 }
