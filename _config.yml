@@ -8,8 +8,8 @@ port:  4000
 # ensure UTF-8 character encoding. Be sure to add <meta charset="utf-8"> as well!
 encoding: utf-8
 
-# include Pygments for syntax highlighting
-highlighter: pygments
+# include Rogue for syntax highlighting
+highlighter: rogue
 
 # permalinks
 permalink: /posts/:title
